@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: dakota.states@gmail.com
 copyright_name: Dakota States
 description: > # this means to ignore newlines until "baseurl:"
-  The Future of Software Engineering
+  A Blog about Ideal Forms of the Future and Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dakotastates
