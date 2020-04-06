@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "Goodbye Humanity, Hello Technology"
+date:       2020-04-06 00:49:36 +0000
+permalink:  goodbye_humanity_hello_technology
+---
+
+When humans created technology, they did so out of convenience. It is what makes us a culture of conveniences. Everything we do or create is designed to help us to avoid pain and to obtain pleasure. But what does this constant stimulation of pleasure, through technology, do to our humanity? Don’t get me wrong, I enjoy technology vehemently but it’s fair to ponder the issue of humanity. I would say it is a great thing which allows us to no longer need to fend for ourselves as much. We no longer have to survive a harsh winter or brutally hot summer because technology gave us air conditioning. Technology gave us the pleasure of not comfort while allowing us to avoid the harsh, sometimes inhospitable, reality of mother nature. But…. What if our precious technology fails us? What if we suddenly return to a state of chaos and are forced to fend for ourselves. Would you survive? Would you want to survive? I don’t think I will. I don’t know how to maintain my current lifestyle without technology. And so, How do we fix this dilemma? Well, with education and ….. Technology. 
+
+Technology can be our downfall but also our savior. There are so many problems in our world and not as many solutions. And if someone do have a great solution idea for a problem, it does not mean they will be able to actively solve the problem because capitalism sometimes gets in the way. My partner enjoys watching Shark Tank, which I find dreadful but I still love him, and the show often treat problem solves who might have a great idea as dead in the water if they do not have the ability to make money from their solution to a problem. That is capitalism for you. But to get to the point, sometimes we need to bypass the financials and just solve a problem. 
+
+Let’s say we have a polluted river, the EPA is supposed to be able to fix this issue but it’s a, sadly, under funded governmental organization. Wouldn’t it be nice to be able to report a problem and allow experts submit proposals to solve the problem. And then other experts, who know a thing or two about the problem, can vote on who has the best solution. And then the proposal with the best solution will be able to gain increased access to resources, not just money.  That is certainly a way to solve a problem. 
+
+And so, I created a FixStarter APP, which, eventually and hopefully, will be able to do just that. I created the web application for my Flatiron Sinatra Project. Currently it’s just bare bones but eventually, as I learn more, I would like to turn it into something useful. This app could help us report and solve the many issues we face in our daily lives as well as problems like manmade environmental catastrophes. But it’s important to remember, technology cannot solve all our problems. Sometimes it gives us unwarranted comfort as it makes us believe our problems are being solved by someone else. Let’s use technology to solve all our problems but let’s be aware of what it does to our precious humanity. 
+
