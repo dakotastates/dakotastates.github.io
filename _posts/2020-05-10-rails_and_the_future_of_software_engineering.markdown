@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails and the Future of Software Engineering"
-date:       2020-05-11 03:56:44 +0000
+date:       2020-05-10 23:56:44 -0400
 permalink:  rails_and_the_future_of_software_engineering
 ---
 
