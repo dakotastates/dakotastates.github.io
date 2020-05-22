@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Searching the Void"
-date:       2020-05-22 19:55:40 +0000
+date:       2020-05-22 15:55:41 -0400
 permalink:  searching_the_void
 ---
 
@@ -38,7 +38,24 @@ Please note: I included the search query assigned variable within an if statemen
 
 Now let’s look at the ‘.search’ scope method within our Model. 
 
-![](https://i.imgur.com/zPjsm3p.png)
+
+```
+<h3>Search by Title: </h3>
+<%= form_tag(problems_path, method: :get) do %>
+  <%=text_field_tag(:search, params[:search]) %>
+  <%= submit_tag "Search", name: nil %>
+<% end %>
+
+<div>
+  <h3>Filter Problems:</h3>
+  <%= form_tag("/problems", method: "get") do %>
+    By User: <%= select_tag "user", options_from_collection_for_select(@users, "id", "first_name"), include_blank: true %>
+    By Date: <%= select_tag "date", options_for_select(["Today", "Yesterday", "Last week", "Older"]), include_blank: true %>
+    <%= submit_tag "Filter" %>
+  <% end %>
+</div>
+```
+
 
 We keep the ‘.search’ scope method within out Model because of the concept of separation of concerns; which essentially tells asks us ‘who is responsible’ for a particular concern. All scope methods are the concern of the model, not the controller. Within the model, we have our scope method ‘self.search(search)’ 
 
